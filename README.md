@@ -106,18 +106,6 @@ Downloads/
 [2026-01-31 14:54] script.py → Code
 ```
 
-## GitHub Upload
-
-Upload these files:
-- ✅ `src/FileOrganizer.java`
-- ✅ `README.md`
-- ✅ `.gitignore`
-- ✅ `config/extension-mappings.properties`
-
-**Don't upload:**
-- ❌ `*.class` files
-- ❌ `logs/` folder
-- ❌ `test-folder/`
 
 ## Technical Details
 
