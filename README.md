@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # File Organizer CLI Tool
 
 A simple command-line tool that automatically organizes files by categorizing them into subfolders based on file extensions.
@@ -132,3 +133,6 @@ Upload these files:
 ## License
 
 Open source - free for educational use.
+=======
+# File-Organizer-Auto-Folder-Sorter-CLI-
+>>>>>>> fef4b3c71026f0ea69917bdfa16998c66dd99ca1
